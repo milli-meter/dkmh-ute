@@ -22,7 +22,7 @@ Chuột phải vào nó và chọn `Edit`. Lúc này sẽ xuất hiện 1 hộp 
 
    * Mục `URL` xóa tất cả và pass đoạn code dưới đây vào và nhấn `Done`
 ```javascript
-javascript:(() => { if (!location.href.includes("dkmh.hcmute.edu.vn")) return void alert("Bạn hãy đăng nhập vào trang dkmh.hcmute.edu.vn trước khi chạy script này"); if (null == document.querySelector("#id_menu2")) return void alert("Hãy đăng nhập trước khi chạy script"); let n = prompt("Nhập năm bắt đầu học và học kì.\nVí dụ: năm 2021, kì 2 thì nhập 212"); if (null == n || "" == n) return; let h = prompt("Nhập mã môn học. Nếu nhập nhiều môn thì phân cách nhau bằng khoảng trắng"); if (null == h || "" == h) return; h =  h.replace(/\s+/g, " ").trim().split(" "); for (let e = 0; e < h.length; e++) PopupDanhSachLop(n + h[e], h[e]) })();
+javascript:(() => { if (!location.href.includes("dkmh.hcmute.edu.vn")) return void alert("Bạn hãy đăng nhập vào trang dkmh.hcmute.edu.vn trước khi chạy script này"); if (null == document.querySelector("#id_menu2")) return void alert("Hãy đăng nhập trước khi chạy script"); let n = prompt("Nhập năm bắt đầu học và học kì.\nVí dụ: năm học là 2021-2022 và đang là kì 2 thì nhập 212"); if (null == n || "" == n) return; let h = prompt("Nhập mã môn học. Nếu nhập nhiều môn thì phân cách nhau bằng khoảng trắng"); if (null == h || "" == h) return; h =  h.replace(/\s+/g, " ").trim().split(" "); for (let e = 0; e < h.length; e++) PopupDanhSachLop(n + h[e], h[e]) })();
 ```
 
 ## Sử dụng
