@@ -27,7 +27,11 @@ javascript:(() => { if (!location.href.includes("dkmh.hcmute.edu.vn")) return vo
 
 ## Sử dụng
 
-Sau khi hoàn thành các bước trên thì bạn chỉ cần vào `Đăng nhập` vào trang [Đăng Kí Môn Học](https://dkmh.hcmute.edu.vn/) và click vào bookmark bạn vừa thêm.
+Sau khi hoàn thành các bước trên thì bạn chỉ cần vào `Đăng nhập` vào trang [Đăng Kí Môn Học](https://dkmh.hcmute.edu.vn/) và click vào bookmark bạn vừa thêm sẽ xuất hiện 1 hộp thoại.
+
+* Nhập năm bắt đầu học và học kì. **Ví dụ: nếu năm học là 2021-2022 và đang là kì 2 thì nhập 212**
+
+* Nhập mã môn học. Nếu nhập nhiều môn thì phân cách nhau bằng khoảng trắng. **Ví dụ: ADNT330580 ADPL331379**
 
 **Chúc các bạn đăng kí môn học thành công 👍**
 
