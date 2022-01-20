@@ -36,7 +36,7 @@ Sau khi hoàn thành các bước trên thì bạn chỉ cần vào `Đăng nh�
 **Chúc các bạn đăng kí môn học thành công 👍**
 
 ## Bonus
-> Chức năng của code dưới đây là bạn nhập mã lớp học phần như là ADNT330580_01CLC thì nó đăng kí lớp này luôn cho bạn, khác với code trên là bạn chỉ nhập mã môn học và phải chọn lớp
+> Chức năng của code dưới đây là bạn nhập mã lớp học phần như là ADNT330580_01CLC thì nó đăng kí lớp này luôn cho bạn, khác với code trên là bạn phải nhập mã môn học và chọn lớp
 >
 > Lưu ý: code này chưa test kĩ 
 
